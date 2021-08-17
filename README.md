@@ -10,5 +10,5 @@ Il file contenente il testo da leggere è "prova.txt" <br>
 The file containing the text to be read is "prova.txt" <br><br>
 
 
-<h1> Immagini / Images  </h1>
+<h1> Immagini / Images  </h1> <br>
 ![](https://1.bp.blogspot.com/-sPrtuSzJA0o/YBXbbYTlKOI/AAAAAAAAADo/vjLdCXE6G6oCXSZelkq_HvsbDfegSyACQCLcBGAsYHQ/s216/Cattura.PNG)
